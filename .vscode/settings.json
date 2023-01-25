@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "**/*.mp4": true,
+    // "*.mp4": true
+    "**/*.jpeg": true
+  }
+}
