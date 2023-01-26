@@ -28,4 +28,7 @@ git push <remoteName> <branchName>
 git branch -u <remoteName>/<branchName> <branchName>
 git branch --set-upstream-to <remoteName>/<branchName> <branchName>
 
+# Merge branch to current
+git merge <branchName>
+
 # On br2 !
