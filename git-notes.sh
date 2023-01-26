@@ -21,4 +21,11 @@ git branch --delete <branchName>
 git push -d <remoteName> <branchName>
 git push --delete <remoteName> <branchName>
 
+# Create remote branch by pushing
+git push <remoteName> <branchName> 
+
+# Set remote upstream
+git branch -u <remoteName>/<branchName> <branchName>
+git branch --set-upstream-to <remoteName>/<branchName> <branchName>
+
 # On br2 !
