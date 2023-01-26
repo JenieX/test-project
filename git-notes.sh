@@ -37,4 +37,10 @@ git merge <branchName>
 # Rebase current branch on <branchName>
 git rebase <branchName>
 
+# Browse repository at a specific commit
+git checkout <commitHash>
+
+# Log short commit hash
+git log --oneline
+
 # On br3
