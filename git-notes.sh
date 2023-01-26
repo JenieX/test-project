@@ -34,4 +34,6 @@ git branch --set-upstream-to <remoteName>/<branchName> <branchName>
 # Merge branch to current
 git merge <branchName>
 
+# Rebase branch to current
+
 # On br3
